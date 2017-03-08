@@ -1,2 +1,2 @@
-# 04_TankGame
+# TankGame
 An Open World Tank Game
